@@ -4,23 +4,23 @@ html {
 a, p {
        font-family:"Trebuchet", Helvetica, sans-serif;
 }
-a:link {
-       color: #fff;
-       background-color: transparent;
-       text-decoration: underline;
-}
-a:visited {
-       color: #FFCC99;
-       background-color: transparent;
-       text-decoration: underline;
-}
-a:hover {
-       color: #FF9966;
-       background-color: transparent;
-       text-decoration: underline;
-}
-a:active {
-       color: #FFCC99;
-       background-color: transparent;
-       text-decoration: underline;
-}
+            a:link {
+                color: #fff;
+                background-color: transparent;
+                text-decoration: underline;
+            }
+            a:visited {
+                color: #fff;
+                background-color: transparent;
+                text-decoration: underline;
+            }
+            a:hover {
+                color: #aaa;
+                background-color: transparent;
+                text-decoration: underline;
+            }
+            a:active {
+                color: #999;
+                background-color: transparent;
+                text-decoration: underline;
+            }
