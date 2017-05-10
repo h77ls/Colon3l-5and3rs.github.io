@@ -1,11 +1,11 @@
 html {
-       background-color: #0066cc;
+       background-color: #06a;
 }
 a, p {
        font-family:"Trebuchet", Helvetica, sans-serif;
 }
 a:link {
-       color: #FFCC99;
+       color: #fff;
        background-color: transparent;
        text-decoration: underline;
 }
