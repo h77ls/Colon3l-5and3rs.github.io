@@ -1,7 +1,7 @@
 html {
        background-color: #44f;
 }
-a, p {
+a, p, h1 {
        font-family:"Trebuchet", Helvetica, sans-serif;
 }
             a:link {
